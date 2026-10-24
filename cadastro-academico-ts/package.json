@@ -1,0 +1,13 @@
+{
+    "name": "cadastro-academico-ts",
+    "version": "1.0.0",
+    "description": "Sistema de cadastro acadêmico em TypeScript",
+    "main": "dist/app.js",
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/app.js"
+    },
+    "devDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
